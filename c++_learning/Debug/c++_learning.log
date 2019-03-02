@@ -1,0 +1,6 @@
+﻿  源.cpp
+c:\users\w5713\documents\visual studio 2015\projects\c++_learning\c++_learning\chap6_function.h(22): warning C4172: 返回局部变量或临时变量的地址: matrix
+c:\users\w5713\documents\visual studio 2015\projects\c++_learning\c++_learning\chap6_function.h(25): warning C4172: 返回局部变量或临时变量的地址: matrix
+c:\users\w5713\documents\visual studio 2015\projects\c++_learning\c++_learning\chap6_function.h(23): warning C4172: 返回局部变量或临时变量的地址: matrix
+  c++_learning.vcxproj -> C:\Users\w5713\documents\visual studio 2015\Projects\c++_learning\Debug\c++_learning.exe
+  c++_learning.vcxproj -> C:\Users\w5713\documents\visual studio 2015\Projects\c++_learning\Debug\c++_learning.pdb (Partial PDB)
